@@ -1,0 +1,23 @@
+{
+  "name": "learning_node_node-worker-farm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcpre/learning_node_node-worker-farm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcpre/learning_node_node-worker-farm/issues"
+  },
+  "homepage": "https://github.com/marcpre/learning_node_node-worker-farm#readme",
+  "dependencies": {
+    "worker-farm": "^1.7.0"
+  }
+}
